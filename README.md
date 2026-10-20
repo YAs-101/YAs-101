@@ -31,7 +31,7 @@ Java 后端为主，做过 Spring Cloud 微服务拆分、AI 搜索引用采集�
 
 ## 项目
 
-### [StockPulse · 股票检测统计平台](https://github.com/YAs-101/stock-platform-v0.1)
+### [StockPulse · 股票检测统计平台](https://github.com/YAs-101/stock-platform)
 
 A 股数据检测统计平台：Spring Cloud 微服务拆分，5 条异常检测规则，ECharts 可视化仪表盘。
 
@@ -68,7 +68,7 @@ GEO（生成式引擎优化）场景下的引用度量工具：多引擎采集 A
 
 | 仓库 | 说明 |
 | :--- | :--- |
-| [Hotel-Room-Booking-Management-System](https://github.com/YAs-101/Design-and-Implementation-of-Hotel-Room-Booking-Management-System) | 酒店客房预订管理系统，前后端分离 |
+| [Hotel-Room-Booking](https://github.com/YAs-101/Hotel-Room-Booking) | 酒店客房预订管理系统，前后端分离 |
 | [Simple-Pixel-Art-Board](https://github.com/YAs-101/Simple-Pixel-Art-Board) | 浏览器端像素画板，原生 Canvas 实现 |
 
 ---
